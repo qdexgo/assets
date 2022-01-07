@@ -1,0 +1,11 @@
+{
+    "name": "Oboswap Token",
+    "website": "https://poly.oboswap.com",
+    "description": "Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.",
+    "explorer": "https://polygonscan.com/token/0xb8E67956C68c0160A3c13466D1806dDd96B8a8C0",
+    "symbol": "OBO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb8E67956C68c0160A3c13466D1806dDd96B8a8C0"
+   
+}
